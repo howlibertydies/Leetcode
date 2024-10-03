@@ -1,4 +1,4 @@
-// Use Hashmap to get O(n) in both space and time complexity
+// Use Hashmap to get O(n) in both space and time complexity 
 
 class Solution {
     public int[] twoSum(int[] nums, int target) {
